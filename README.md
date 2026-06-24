@@ -2,6 +2,8 @@
 
 **Bashige LLM Aggregator Detection Tool** is a comprehensive, web-based testing platform designed to evaluate and verify the quality, stability, and authenticity of AI API aggregator platforms. This tool provides professional-grade testing capabilities for users looking for reliable AI API services.
 
+https://apitest.bashige.com/
+
 ![](apitest.jpg)
 
 # Core Functionality
